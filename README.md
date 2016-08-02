@@ -1,5 +1,5 @@
 # parallel-alsa-modular
-Parallelization of the ALSA Modular Synthesizer.
+Parallelization of the ALSA Modular Synthesizer. http://alsamodular.sourceforge.net/
 Due to commitments with Concordia University, Montreal, I cannot post the full working program. Instead I have decided to post some of the .h and .cpp files I used for parallelization.
 
 Threadpool.cpp An implementation of a C++ Threadpool that processes Standard Futures
