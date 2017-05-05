@@ -8,3 +8,5 @@ m_vca.cpp One of the ALSA Modulars modules, that shows how futures are handled a
 
 thread_safe_queue.h a simple thread safe queue
 
+Please Note# I have completed another version of this projest which uses a different parallelization this can be downloaded from the same github repository see: "ALSA-Modular-Parallel-Synth"
+
